@@ -63,14 +63,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\GenTerm\DataSrv.cs">
+    <Compile Include="..\GeneralTerminal\DataSrv.cs">
       <Link>DataSrv.cs</Link>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="..\..\GenTerm\GenDev.cs">
+    <Compile Include="..\GeneralTerminal\GenDev.cs">
       <Link>GenDev.cs</Link>
     </Compile>
-    <Compile Include="..\..\GenTerm\WMCE_Constants.cs">
+    <Compile Include="..\GeneralTerminal\WMCE_Constants.cs">
       <Link>WMCE_Constants.cs</Link>
     </Compile>
     <Compile Include="Avtor.cs">
