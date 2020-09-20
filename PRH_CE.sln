@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRH_CE", "PRH_CE.csproj", "{2CFB86BA-FE5B-46FA-A355-B7BC8CFCA85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavuSocket", "..\GeneralTerminal\Sockets\SavuSocket\SavuSocket.csproj", "{E891BF5B-DEF8-44F4-9EDE-605ADFA9FF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeScanner", "..\GeneralTerminal\ScanWM\BarcodeScanner.csproj", "{19E11EB3-AD56-4E27-9045-3060BB369146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CFB86BA-FE5B-46FA-A355-B7BC8CFCA85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFB86BA-FE5B-46FA-A355-B7BC8CFCA85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFB86BA-FE5B-46FA-A355-B7BC8CFCA85A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2CFB86BA-FE5B-46FA-A355-B7BC8CFCA85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFB86BA-FE5B-46FA-A355-B7BC8CFCA85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFB86BA-FE5B-46FA-A355-B7BC8CFCA85A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E891BF5B-DEF8-44F4-9EDE-605ADFA9FF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E891BF5B-DEF8-44F4-9EDE-605ADFA9FF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E891BF5B-DEF8-44F4-9EDE-605ADFA9FF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E891BF5B-DEF8-44F4-9EDE-605ADFA9FF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E11EB3-AD56-4E27-9045-3060BB369146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E11EB3-AD56-4E27-9045-3060BB369146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E11EB3-AD56-4E27-9045-3060BB369146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E11EB3-AD56-4E27-9045-3060BB369146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
